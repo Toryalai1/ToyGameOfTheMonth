@@ -1,7 +1,7 @@
 name = Discord Game of the Month
 author = MiSTer Discord Community
 url = https://github.com/Toryalai1/ToyGameOfTheMonth/edit/main/Discord Game of the Month.sync
-updated = 2023-02-01 08:57
+updated = 2023-03-01 08:57
 
 [2022-04 Crystalis]
 system = NES
@@ -65,3 +65,8 @@ match = Blaster Master
 [2023-02 Goof Troop]
 system = SNES
 match = Goof Troop (USA)
+
+[2023-03 Lunar - The Silver Star]
+system = MegaCD
+match = Lunar - The Silver Star (USA)
+
